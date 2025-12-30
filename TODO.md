@@ -1,1 +1,3 @@
+- add URL adder - TUI allowing path, comment, and one or more URLs
+- add URL path lister
 - add some TODOs
